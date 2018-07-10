@@ -2,4 +2,6 @@
 title: Scala Fundamentals
 ---
 
-Placeholder
+# Links
+
+* Download [notebooks.dbc](notebooks.dbc)
