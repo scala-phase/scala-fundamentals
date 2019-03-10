@@ -1,4 +1,4 @@
-// Databricks notebook source exported at Sat, 22 Oct 2016 10:51:50 UTC
+// Databricks notebook source
 // MAGIC %md
 // MAGIC <img src="http://www.scala-lang.org/resources/img/smooth-spiral.png" style="float: right; height: 100px; margin-right: 50px; margin-top: 20px"/>
 // MAGIC # Scala Fundamentals
@@ -17,9 +17,11 @@
 // MAGIC 
 // MAGIC Since the registration fee didn't cover all the costs, the following companies kicked in some extra cash to help:
 // MAGIC 
-// MAGIC <img src="http://www.wingspan.com/wp-content/uploads/2016/01/Wingspan-Logo-300x100.gif" style="height: 48px"/> <img src="https://s3.amazonaws.com/ardentex-workspace/mini-logo-transparent-small.png" style="height: 48px"/> <img src="http://chariotsolutions.com/wp-content/uploads/event/2015/11/59fc6d9e-cb95-11e0-816a-5fcb627c2ae5-1.jpg" style="height: 48px"/>
+// MAGIC <img src="https://scala-phase.org/scala-fundamentals/wingspan-logo.png"/><br/>
+// MAGIC <img src="https://scala-phase.org/scala-fundamentals/ardentex-logo.png"/><br/>
+// MAGIC <img src="https://scala-phase.org/scala-fundamentals/chariot-logo.png"/>
 // MAGIC 
-// MAGIC Finally, a big thank-you to ![Cerner](http://www.cerner.com/include/img/logo-cerner.gif) for providing both the venue and the WiFi access for today's event.
+// MAGIC Finally, a big thank-you to ![Cerner](https://scala-phase.org/scala-fundamentals/cerner-logo.png) for providing both the venue and the WiFi access for today's event.
 // MAGIC 
 // MAGIC ### Instructors
 // MAGIC 
@@ -69,7 +71,7 @@
 // MAGIC 5. Click "Import."  It may take a minute or two for all files to successfully import.  (They will progressively appear.)  
 // MAGIC <img src="http://i.imgur.com/fMq0sWt.png" style="height: 250px; margin-top: 20px; clip-path: inset(250px 100px))"/>
 // MAGIC 
-// MAGIC <br/><img src="https://openclipart.org/download/58669/tooltip.svg" alt="Tip" style="height: 90px"/>
+// MAGIC <br/><img src="https://scala-phase.org/scala-fundamentals/tooltip.png"/>
 // MAGIC > You can later download your lab solutions and share them with others by choosing the "Export" option instead of the import option.  This will download a .dbc archive (databricks cloud archive, a variation of a zip file) that you can then import into any other Databricks account.  Alternatively you can download a folder as a zip of HTML files.  You can even download individual notebooks as source code to run them Scala.
 
 // COMMAND ----------
